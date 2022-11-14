@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811867303095",
+    "project_id": "final-exam-mobile-apps--sc",
+    "storage_bucket": "final-exam-mobile-apps--sc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811867303095:android:2c61fa28c96a9e2480b132",
+        "android_client_info": {
+          "package_name": "com.example.finalexamsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811867303095-9d818t2defe799161pujopla29p1oeca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBu9QZzGdY99At22mmorW43Aw8YS-bFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811867303095-9d818t2defe799161pujopla29p1oeca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
